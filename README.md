@@ -1,2 +1,2 @@
 # Linux-Shell
-Notes about linux shell commands and other codes and solved challenges
+Notes about linux shell commands, other codes and solved linux (related) challenges.
